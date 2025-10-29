@@ -16,6 +16,9 @@ repo_part: "Grove_Gas_Sensor-MQ2"
 product_url: "https://wiki.seeedstudio.com/Grove-Gas_Sensor-MQ2/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Gas_Sensor-MQ2.git"
 embedded_example_file: "examples/Grove_Gas_Sensor-MQ2_minimal/Grove_Gas_Sensor-MQ2_minimal.ino"
+title: 'Gassensor'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
